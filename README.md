@@ -32,3 +32,5 @@
     
 ## Extra Credit
     * add an another adding VC for adding Trivia to a specific Location
+
+<a href='https://learn.co/lessons/locationTrivia-dataStore' data-visibility='hidden'>Learn.co resource</a>
